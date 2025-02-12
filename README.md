@@ -59,8 +59,8 @@ gail_grl_project/
 
 ### Clone the Repository:
 ```sh
-git clone https://github.com/yourusername/gail_grl_project.git
-cd gail_grl_project
+git clone https://github.com/frezazadeh/ESN-GRL-based-Generative-Adversarial-Imitation-Learning.git
+cd ESN-GRL-based-Generative-Adversarial-Imitation-Learning
 ```
 
 ### Create and Activate a Conda Environment (or use another virtual environment):
