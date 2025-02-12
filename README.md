@@ -139,10 +139,6 @@ GAIL will load the expert demonstrations provided by the GRL policy and train a 
 - **Checkpoint Files**: The expert checkpoint is saved with the `.ckpt` extension. Both `.pth` and `.ckpt` are valid PyTorch checkpoint file extensions; the naming is for convenience and clarity.
 - **Gym API Changes**: This project is built for Gym versions 0.26 and above. If you use an older version of Gym, some of the environment reset and step handling may need adjustment.
 
-## License
-
-MIT License
-
 *(Or choose a license that suits your project.)*
 
 Happy coding!
