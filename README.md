@@ -146,4 +146,4 @@ GAIL will load the expert demonstrations provided by the GRL policy and train a 
 ---
 ## 📚 Reference
 
-For more information, visit: [Original GAIL Paper](https://arxiv.org/abs/1606.03476), [GAIL PyTorch:](https://github.com/hcnoh/gail-pytorch)
+For more information, visit: [Original GAIL Paper](https://arxiv.org/abs/1606.03476), [GAIL PyTorch](https://github.com/hcnoh/gail-pytorch)
