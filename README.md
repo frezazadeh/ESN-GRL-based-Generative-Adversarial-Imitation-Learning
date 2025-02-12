@@ -2,22 +2,24 @@
 
 This repository implements a two-stage imitation learning framework for the CartPole-v1 environment. First, a graph-based reinforcement learning (GRL) agent is trained as an expert policy. Then, Generative Adversarial Imitation Learning (GAIL) uses the expert’s demonstrations to train a new policy that imitates the expert without requiring an explicit reward function.
 
+
 ## Table of Contents
 
-- Overview
-- Repository Structure
-- Installation
-- Usage
-  - Train the Expert Policy (GRL)
-  - Train with Imitation Learning (GAIL)
-- Code Details
-  - Configuration Files
-  - Models and Networks
-  - GRL Agent
-  - GAIL Trainer
-  - Utility Functions
-- Notes and Warnings
-- License
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [1. Train the Expert Policy (GRL)](#1-train-the-expert-policy-grl)
+  - [2. Train with Imitation Learning (GAIL)](#2-train-with-imitation-learning-gail)
+- [Code Details](#code-details)
+  - [Configuration Files](#configuration-files)
+  - [Models and Networks](#models-and-networks)
+  - [GRL Agent](#grl-agent)
+  - [GAIL Trainer](#gail-trainer)
+  - [Utility Functions](#utility-functions)
+- [Notes and Warnings](#notes-and-warnings)
+
+---
 
 ## Overview
 
