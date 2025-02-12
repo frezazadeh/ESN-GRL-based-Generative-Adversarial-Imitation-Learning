@@ -2,6 +2,8 @@
 
 This repository implements a two-stage imitation learning framework for the CartPole-v1 environment. First, a graph-based reinforcement learning (GRL) agent is trained as an expert policy. Then, Generative Adversarial Imitation Learning (GAIL) uses the expert’s demonstrations to train a new policy that imitates the expert without requiring an explicit reward function.
 
+Imitation learning, especially when combined with adversarial techniques, allows agents to learn complex behaviors by observing experts. This is a significant step because it mimics how humans often learn—by watching and imitating. The combination of generative models with reinforcement learning has the potential to create agents that aren’t just task-specific but can adapt their learned behaviors to a range of new and unforeseen tasks—a critical aspect of general intelligence.
+
 
 ## Table of Contents
 
