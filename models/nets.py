@@ -1,4 +1,3 @@
-# models/nets.py
 import torch
 from torch.nn import Module, Sequential, Linear, Tanh, Parameter, Embedding
 from torch.distributions import Categorical, MultivariateNormal
