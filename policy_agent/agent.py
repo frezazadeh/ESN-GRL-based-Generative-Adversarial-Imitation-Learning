@@ -1,4 +1,3 @@
-# policy_agent/agent.py
 import gym
 import torch
 import numpy as np
