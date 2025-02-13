@@ -83,7 +83,7 @@ Make sure you have installed the following packages:
 For example, you can install packages via pip:
 ```sh
 pip install torch torchvision torchaudio
-gpip install gym==0.26.0 numpy
+pip install gym==0.26.0 numpy
 pip install torch-geometric
 ```
 (You might need additional dependencies based on your system.)
