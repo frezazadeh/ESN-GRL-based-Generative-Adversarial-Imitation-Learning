@@ -1,4 +1,3 @@
-# models/gail.py
 import numpy as np
 import torch
 from torch.nn import Module
