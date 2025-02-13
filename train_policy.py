@@ -1,4 +1,3 @@
-# train_policy.py
 import os
 import gym
 import torch
